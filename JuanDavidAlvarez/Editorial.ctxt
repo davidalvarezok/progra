@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Editorial
+comment1.params=nombre\ cantPre\ DIMF
+comment1.target=Editorial(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=Editorial()
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment4.params=nombre
+comment4.target=void\ setNombre(java.lang.String)
+comment5.params=
+comment5.target=int\ getCantPre()
+comment6.params=cantPre
+comment6.target=void\ setCantPre(int)
+comment7.params=libro
+comment7.target=void\ agregarLibro(Libro)
+comment8.params=pos
+comment8.target=Libro\ devolverLibro(int)
+comment9.params=
+comment9.target=double\ montoTotalLibros()
+numComments=10
